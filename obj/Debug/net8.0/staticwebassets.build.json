@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ZCNfL4i4ID0jA5gCrhvDFYgDexBCduNTpO7zFlK4/0U=",
+  "Source": "OnlineAccount.WebApi",
+  "BasePath": "_content/OnlineAccount.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
