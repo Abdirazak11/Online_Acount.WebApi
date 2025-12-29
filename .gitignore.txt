@@ -1,14 +1,14 @@
-# Build folders
+## .NET
 bin/
 obj/
 
-# User-specific files
+## Visual Studio
+.vs/
 *.user
+*.suo
 
-# Local development config
+## Logs
+*.log
+
+## Secrets
 appsettings.Development.json
-Properties/launchSettings.json
-
-# Environment variables
-.env
-

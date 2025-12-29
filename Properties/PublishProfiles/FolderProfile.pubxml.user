@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
-<Project>
-  <PropertyGroup>
-    <_PublishTargetUrl>D:\MyProjects\OnlineAccount\OnlineAccount\OnlineAccount.WebApi\bin\Release\net8.0\publish\</_PublishTargetUrl>
-    <History>True|2025-12-27T15:00:27.2934622Z||;True|2025-12-27T00:43:17.9432416+04:00||;True|2025-12-27T00:38:34.9732967+04:00||;True|2025-12-27T00:22:31.6801970+04:00||;True|2025-12-27T00:07:04.0097221+04:00||;False|2025-12-27T00:06:09.7177200+04:00||;True|2025-12-26T23:09:52.7983582+04:00||;</History>
-    <LastFailureDetails />
-  </PropertyGroup>
-</Project>
